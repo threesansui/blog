@@ -2,7 +2,7 @@ const navConf = require('../config/navconfig');
 const sidebarConf = require('../config/sidebarConf');
 
 module.exports = {
-  title: 'zmx的前端日志',
+  title: '张三岁的前端日志',
   description: 'zmx2321',
   
   locales: {
